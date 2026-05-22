@@ -26,7 +26,7 @@ This project analyzes diagnostic test records from a health center covering Janu
 
 ## Dashboard Preview
 
-![Medical Report Dashboard](medical_report_analysis.png)
+![Medical Analysis](medical_report_analysis-2.png)
 
 ---
 
